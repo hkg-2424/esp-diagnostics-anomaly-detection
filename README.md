@@ -131,7 +131,7 @@ print(f"Operational Trip Recall: {summary['anomaly_accuracy_benchmark']['Recall'
 
 ---
 
-## 🎯 Technical Interview Defense (ONGC / Upstream PSUs)
+## 💡 Key Engineering Principles & FAQs
 * **What causes Upthrust vs. Downthrust in an ESP?**  
   At low rates, head is high and fluid cannot carry downward weight, thrusting impellers against lower thrust pads (**Downthrust**). At excessively high rates, fluid kinetic energy lifts impellers upward against the top diffuser hubs (**Upthrust**).
 * **How did you detect gas interference downhole?**  
